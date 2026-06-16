@@ -11,3 +11,5 @@
 - 理论定义：月支 = 欲望模式底色；时支 = 思维模式偏好底色。
 
 生成入口：`tools/generate_144_personality_docs.py`。
+
+触发生成：任意 push 或手动 workflow_dispatch。
