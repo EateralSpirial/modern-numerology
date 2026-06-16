@@ -2,6 +2,24 @@
 
 现代命理学研究资料库。
 
+## GitHub Pages 网页
+
+网页入口：`docs/index.html`
+
+启用后访问地址通常为：
+
+```text
+https://eateralspirial.github.io/modern-numerology/
+```
+
+部署 workflow：`.github/workflows/deploy-pages.yml`
+
+如果 Pages 没有自动启用，需要在 GitHub 仓库设置中选择：
+
+```text
+Settings → Pages → Source → GitHub Actions
+```
+
 ## 144 人格类型体系
 
 本仓库将生成 `docs/144-personality-types/`：
