@@ -23,8 +23,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Generate five-element phase docs
-        run: python tools/generate_144_personality_docs.py
+      - name: Generate 288 solar-term type docs
+        run: python tools/generate_288_solar_term_personality_docs.py
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
