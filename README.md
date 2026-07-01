@@ -62,5 +62,3 @@ Settings → Pages → Source → GitHub Actions
 - 认知行为偏好说明：`docs/theory/节气令与长期认知行为偏好.md`
 - 新版文档目录：`docs/288-solar-term-types/`
 - 生成入口：`tools/generate_288_solar_term_personality_docs.py`
-
-> `docs/144-five-element-types/` 属于旧版历史入口。当前主体系以 `docs/288-solar-term-types/` 为准。
